@@ -1,0 +1,1 @@
+This project is a full-stack food delivery web application built using React.js, MongoDB, Express, Node.js, and Stripe. The platform allows users to browse restaurants, select meals, and make online payments.
